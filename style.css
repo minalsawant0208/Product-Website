@@ -157,10 +157,18 @@ body
     border-top-right-radius: 50px;
     border-bottom-left-radius: 50px;
 }
+.img-div
+{
+    width: 100%;
+    height: 380px;
+    /* border: 1px solid #000; */
+    margin-bottom: 10px;
+
+}
 .img-div img
 {
     width: 100%;
-    height: 400px;
+    height: 100%;
 }
 .footer
 {
